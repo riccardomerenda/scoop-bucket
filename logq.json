@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/riccardomerenda/logq/releases/download/v1.1.0/logq_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/riccardomerenda/logq/releases/download/v1.2.0/logq_1.2.0_windows_amd64.zip",
             "bin": [
                 "logq.exe"
             ],
-            "hash": "cd4ea2792ec95e3fc2b1448d078a50b4a1de0740df87b0695e25dbf8c27c1d32"
+            "hash": "e630833961613d8cb07c646f733604d9fe74dd2a6785332d61cc2e161e9c871a"
         },
         "arm64": {
-            "url": "https://github.com/riccardomerenda/logq/releases/download/v1.1.0/logq_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/riccardomerenda/logq/releases/download/v1.2.0/logq_1.2.0_windows_arm64.zip",
             "bin": [
                 "logq.exe"
             ],
-            "hash": "5831a393b1e9f0b8e432e48e5ef721c745efa5d84f8801338207afa50b23d2e1"
+            "hash": "54371cb683316d6a247f789ccb694d2c6e71afe5ed6b7f0c9e76e208eb1ee056"
         }
     },
     "homepage": "https://github.com/riccardomerenda/logq",
